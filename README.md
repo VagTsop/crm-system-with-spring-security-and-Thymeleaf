@@ -2,3 +2,5 @@
 CRM  system with Spring Security, JDBC authentication and Thymeleaf templates 
 
 ![loginScreen](loginScreen.png)
+
+![Manager](managerScreen.png)
